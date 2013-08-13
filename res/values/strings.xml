@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC Screen Lock</string>
+    <string name="explanation">To unlock\nplace device\nover key</string>
+
+</resources>
